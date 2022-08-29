@@ -1,24 +1,13 @@
 # to_do_proj
 
+## Before start, you shoud make a dir for project
+## After, you shoud download all files from repository to your directory
 ## Project setup
 ```
-yarn install
+../your_app> yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+../your_app> yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
