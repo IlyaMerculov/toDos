@@ -1,6 +1,6 @@
 # to_do_proj
 
-## Before start, you shoud make a dir for project
+## Before start, you should make a dir for project
 ## After, you shoud download all files from repository to your directory
 ## Project setup
 ```
