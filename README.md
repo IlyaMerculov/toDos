@@ -11,3 +11,5 @@
 ```
 ../your_app> yarn serve
 ```
+
+### Open in Chrome http://localhost:8080/
